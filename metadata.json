@@ -1,0 +1,6 @@
+{
+  "name": "Rent2Wealth",
+  "description": "India's first premium co-living club where your monthly rent buys you fractional equity in the Gurugram real estate you live in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
